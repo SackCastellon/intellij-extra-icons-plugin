@@ -1,5 +1,9 @@
 # Extra Icons Change Log
 
+## 2024.7.1 (WIP)
+* improve compatibility when the Python plugin (Ultimate or Community) is installed.
+* rework Python icons (virtualenv, requirements.txt, wheel) and provide icons for the new UI.
+
 ## 2024.6.4 (2024/07/29)
 * implement [#184](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/discussions/184):  support `.gitea` folders and `*.yml` files in `workflows` subdirectories.
 * fix [#183](https://github.com/jonathanlermitage/intellij-extra-icons-plugin/issues/183): custom icons should apply to files and folders only, not to class members like properties, methods and nested classes.
