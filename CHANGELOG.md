@@ -1,7 +1,7 @@
 # Extra Icons Change Log
 
 ## 2024.7.2 (WIP)
-* avoid some rare NPE errors.
+* avoid some rare NPE errors when importing an old Extra Icons config at project level.
 
 ## 2024.7.1 (2024/08/27)
 * improve compatibility when the Python plugin (Ultimate or Community) is installed.
