@@ -1,5 +1,8 @@
 # Extra Icons Change Log
 
+## 2024.7.2 (WIP)
+* avoid some rare NPE errors.
+
 ## 2024.7.1 (2024/08/27)
 * improve compatibility when the Python plugin (Ultimate or Community) is installed.
 * rework Python icons (virtualenv, requirements.txt, wheel) and provide icons for the new UI.
