@@ -11,7 +11,7 @@
 
 > [!IMPORTANT]
 > **2024-01-08 update**: Extra Icons is no longer open-source. Please see the [license faq](https://plugins.jetbrains.com/plugin/11058-extra-icons/license-faq) for details. :warning:    
-You can still access old code's history and build the plugin for free.  
+You can still access old code's history.  
 **You can still open issues and discussions**.
 
 ---
