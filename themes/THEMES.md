@@ -2,34 +2,19 @@
 
 ### How-To
 
-Download a JSON Icon Pack (see Themes below), then go to Extra Icons settings, and hit <kbd>Import from file</kbd> button.  
+Download a JSON Icon Pack (see Themes below), then go to Extra Icons settings and hit <kbd>Import from file</kbd> button.  
 ![Import from file Screenshot](media/import-user-icon-pack.png)
-
----
-
-### AIAssistantTheme
-
-- description: replaces the AI Assistant Star icon by the new coloured Spiral icon
-
-2023/11/28: moved to [Extra ToolWindow Colorful Icons plugin](https://plugins.jetbrains.com/plugin/16604-extra-toolwindow-colorful-icons/).
-
----
-
-### JPABuddyOldUITheme
-
-- description: replaces JPA Explorer and JPA Designer gray icons by different and colorful icons
-
-2023/12/06: moved to [Extra ToolWindow Colorful Icons plugin](https://plugins.jetbrains.com/plugin/16604-extra-toolwindow-colorful-icons/).
 
 ---
 
 ### FilesOldUITheme
 
 - download link: [FilesOldUITheme.json](https://raw.githubusercontent.com/jonathanlermitage/intellij-extra-icons-plugin/master/themes/FilesOldUITheme.json)
-- nb of icons: <!--FilesOldUITheme_nbOfIcons_start-->101<!--FilesOldUITheme_nbOfIcons_end-->
+- nb of icons: <!--FilesOldUITheme_nbOfIcons_start-->102<!--FilesOldUITheme_nbOfIcons_end-->
 - designed for: the new UI, light theme
-- description: replaces some new UI icons (files and folders) by old UI icons, like Class and Interface files, Package and Source Root folders... Based on IJ Community icons
+- description: replaces some new UI icons (files and folders) by old UI icons, like Class and Interface files, Package, and Source Root folders... Based on IJ Community icons
 - changelog:
+  - v13 - 2024/08/06: 1 new icon (related.svg)
   - v12 - 2024/08/06: 2 new icons (/fileTypes/i18n.svg, pluginLogo.svg)
   - v11 - 2024/07/10: 1 new icon (textArea.svg)
   - v10 - 2024/05/22: 5 new icons
@@ -47,3 +32,17 @@ Screenshot (may be outdated):
 ![FilesOldUITheme Screenshot](media/FilesOldUITheme.png)
 
 ---
+
+### AIAssistantTheme
+
+- description: replaces the AI Assistant Star icon with the new coloured Spiral icon
+
+2023/11/28: moved to [Extra ToolWindow Colorful Icons plugin](https://plugins.jetbrains.com/plugin/16604-extra-toolwindow-colorful-icons/).
+
+---
+
+### JPABuddyOldUITheme
+
+- description: replaces JPA Explorer and JPA Designer gray icons by different and colorful icons
+
+2023/12/06: moved to [Extra ToolWindow Colorful Icons plugin](https://plugins.jetbrains.com/plugin/16604-extra-toolwindow-colorful-icons/).
