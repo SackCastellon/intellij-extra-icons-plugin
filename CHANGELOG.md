@@ -3,6 +3,7 @@
 ## 2024.7.2 (WIP)
 * avoid some rare NPE errors when importing an old Extra Icons config at project level.
 * a recent bug in Extra Icons (2024.6.4, 2024/07/29) prevented icon override for files with multiple dots in their name. This is fixed now.
+* fix usage of some JDK deprecated APIs.
 
 ## 2024.7.1 (2024/08/27)
 * improve compatibility when the Python plugin (Ultimate or Community) is installed.
