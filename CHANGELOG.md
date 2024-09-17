@@ -1,7 +1,9 @@
 # Extra Icons Change Log
 
-## 2024.7.2 (WIP)
-* enable compatibility with 2024.3 IDEs.
+## 2024.7.3 (WIP)
+* fix usage of some JetBrains deprecated APIs.
+
+## 2024.7.2 (2024/09/17)
 * improve compatibility with future IDEs (2024.3+).
 * avoid some rare NPE errors when importing an old Extra Icons config at project level.
 * a recent bug in Extra Icons (2024.6.4, 2024/07/29) prevented icon override for files with multiple dots in their name. This is fixed now.
